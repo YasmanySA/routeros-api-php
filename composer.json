@@ -1,5 +1,5 @@
 {
-  "name": "evilfreelancer/routeros-api-php",
+  "name": "YasmanySA/routeros-api-php",
   "type": "library",
   "description": "Modern Mikrotik RouterOS API PHP client for your applications (with Laravel support)",
   "keywords": [
@@ -41,7 +41,7 @@
     }
   },
   "require": {
-    "php": "^7.4|^8.0",
+    "php": "^5.4|^5.4",
     "ext-sockets": "*",
     "spatie/ssh": "^1.8"
   },
