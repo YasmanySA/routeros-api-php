@@ -9,7 +9,7 @@
 # RouterOS API Client
 
 ```shell
-composer require evilfreelancer/routeros-api-php
+composer require YasmanySA/routeros-api-php
 ```
 
 This library is partly based on [this old project](https://github.com/BenMenking/routeros-api), but unlike it has many
