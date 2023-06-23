@@ -1,5 +1,5 @@
 {
-  "name": "YasmanySA/routeros-api-php",
+  "name": "yasmanysa/routeros-api-php",
   "type": "library",
   "description": "Modern Mikrotik RouterOS API PHP client for your applications (with Laravel support)",
   "keywords": [
