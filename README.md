@@ -40,7 +40,7 @@ RouterOS firmware, it will be detected automatically on connection stage.
 
 ## Minimum requirements
 
-* `php` >= 7.2|8.0
+* `php` >= 5.4|5.4
 * `ext-sockets`
 
 ## Laravel framework support
